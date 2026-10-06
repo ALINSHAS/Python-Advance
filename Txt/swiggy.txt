@@ -1,0 +1,1 @@
+C:\Python314\python.exe d:/luminar/Advanced/fileoperationmenu.py
